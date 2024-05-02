@@ -19,6 +19,8 @@ export default {
         'banner-4': "linear-gradient(90deg, #151515 0%, rgba(21, 21, 21, 0.00) 100%), url('https://i.ibb.co/FKQZHbr/6.jpg')",
         'banner-5': "linear-gradient(90deg, #151515 0%, rgba(21, 21, 21, 0.00) 100%), url('https://i.ibb.co/m0tr5JR/4.jpg')",
         'banner-6': "linear-gradient(90deg, #151515 0%, rgba(21, 21, 21, 0.00) 100%), url('https://i.ibb.co/HrhxTzj/3.jpg')",
+        'checkout': "linear-gradient(90deg, #151515 0%, rgba(21, 21, 21, 0.00) 100%), url('https://i.ibb.co/BjjPHWC/checkout.png')",
+        'ribon': "url('https://i.ibb.co/w7jW92k/Vector.png')",
       }
     },
   },

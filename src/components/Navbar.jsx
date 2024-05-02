@@ -73,7 +73,7 @@ const Navbar = () => {
       </ul>
     </div>
     <div onClick={()=>navigate('/')} className='flex flex-col items-center gap-1 cursor-pointer'>
-    <img src="logo.svg" alt="logo.png" className='lg:w-20 md:w-10 w-8'/>
+    <img src="https://gist.githubusercontent.com/ShejanMahamud/1c23eecd3d7e9f03e3fc65d8b145b744/raw/655b752f8550a19466b5912360c4cd4d97ec12fd/logo.svg" alt="logo.png" className='lg:w-20 md:w-10 w-8'/>
     <span className='font-bold text-[#444] text-lg'>Car Junction
     </span>
     </div>
